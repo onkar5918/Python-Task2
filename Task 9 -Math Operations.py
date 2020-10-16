@@ -1,5 +1,5 @@
 num1=int(input("Enter first number: "))
-num2=int(input("Enter first number: "))
+num2=int(input("Enter Second number: "))
 print(""" Enter your choice from below
             Press 1 for Addition
             Press 2 for Subtraction
